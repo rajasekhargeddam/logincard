@@ -40,7 +40,6 @@ body{
 }
 .login-card-field input:focus {
     border: none;
-    border-bottom: 2px solid purple;
     color: white;
 }
 button{
